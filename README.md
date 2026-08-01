@@ -8,7 +8,16 @@ A collection of C++ programs and DSA practice solutions. This repository documen
 
 ```
 DSA in C++
-│── 02Type_Casting.cpp
+│── 01First_Program.cpp
+│── 02DataTypes.cpp
+│── 03Operators.cpp
+│── 04Input_Output.cpp
+│── 05Variables.cpp
+│── 06Type_Casting.cpp
+│── 07If_Else.cpp
+│── 07If_Else2.cpp
+│── 08Odd_Even.cpp
+│── 09Check_Number.cpp
 │── ...
 │── .gitignore
 │── README.md
@@ -18,10 +27,20 @@ DSA in C++
 
 ## 📚 Topics Covered
 
-- ✅ Type Casting
+## 📚 Topics Covered
+
+- ✅ 01 First Program
+- ✅ 02 Data Types
+- ✅ 03 Operators
+- ✅ 04 Input & Output
+- ✅ 05 Variables
+- ✅ 06 Type Casting
+- ✅ 07 If Else
+- ✅ 07 If Else (Nested / Practice)
+- ✅ 08 Odd Even
+- ✅ 09 Check Number
 
 - 🚧 More DSA topics coming soon...
-
 ---
 
 ## 🛠️ Technologies Used
