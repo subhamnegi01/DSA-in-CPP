@@ -7,7 +7,7 @@ int main(){
     cin>>a;
     for(int i=1; i<=a; i=i+1){
         
-        if(i%2!=0){
+        if(i%2==0){
             cout<<i<<" "<<endl;
         }
     }
