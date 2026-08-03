@@ -7,6 +7,7 @@ int main(){
     cin>>n;
 
     int sum = 0;
+    // int sum=(n*(n+1)/2);
     for(i =1; i<=n; i++){
         sum= sum+i;
         
