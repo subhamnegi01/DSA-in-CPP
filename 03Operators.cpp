@@ -36,5 +36,11 @@ int main(){
     cout<<"\nIncrement and Decrement:-"<<endl;
     cout<<"++a: "<<++a<<endl;
     cout<<"--a: "<<--a<<endl;
+    // Post Increment
+    cout<<"a++: "<<a++<<endl;
+    cout<<a<<endl;
+    // Post Decrement
+    cout<<"a--: "<<a--<<endl;
+    cout<<a;
     return 0;
 }
