@@ -37,7 +37,7 @@ int main(){
         break;
 
         default:
-        cout<<"Enter a valid number.";
+        cout<<"Enter a valid number. ";
     }
     return 0;
 }
