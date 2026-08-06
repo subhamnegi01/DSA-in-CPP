@@ -13,7 +13,7 @@ int main(){
     else{
         for(i = 2; i<n; i++){
             if(n%i==0){
-                cout<<"Not prime number";
+                cout<<"Not prime number.";
                 return 0;
             }
         }
