@@ -11,7 +11,7 @@ int main(){
         rem = num%10;
         num = num/10;
         ans = rem *mul+ans;
-        mul = mul *2;
+        mul = mul*2;
     }
     cout<<ans;
 }
