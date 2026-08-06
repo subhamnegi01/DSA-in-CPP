@@ -13,7 +13,7 @@ int main(){
         //quotient
         num = num/2;
         //ans
-        ans = rem*mul+ans;
+        ans = rem * mul + ans;
         //update mul
         mul= mul*10;
 
