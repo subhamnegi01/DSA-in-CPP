@@ -10,7 +10,7 @@ int main(){
 
     num = n;
     for(i=1; i<=p; i=i+1){
-        num=num*n;
+        num = num*n;
         cout<<num<<endl;
     }
     return 0;
