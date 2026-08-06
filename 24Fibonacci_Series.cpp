@@ -7,7 +7,8 @@ int main (){
     cin>>n;
     int first =0, second =1,last;
     
-    for(int i=1; i<=n; i++ ){
+    for(int i=1; i<=n; i++ )
+    {
         cout<<first<<endl;
         last = first + second;
         first = second;
