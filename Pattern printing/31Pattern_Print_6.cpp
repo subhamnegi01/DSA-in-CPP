@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     char n, row, col;
     cout<<"Enter a alpabet: ";
     cin>>n;
