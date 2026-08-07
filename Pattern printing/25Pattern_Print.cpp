@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     int n, row, col;
     cout<<"Enter a number for rows and cols: ";
     cin>>n;
