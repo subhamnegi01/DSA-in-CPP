@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     cout<<"Select a starting number for decreasing order:-"<<endl;
     
     int num;
