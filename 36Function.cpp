@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int Sum(int m, int n)
+int Sum(int m, int n)  // Multiple Parameter
 {
     int ans = m+n;
     return ans;
