@@ -13,7 +13,7 @@ void Swap(float &c , float &d)       // Function overloading --> Same name but d
 {
     float r = c;
     c = d;
-    d =r;
+    d = r;
 }
 
 int main(){
