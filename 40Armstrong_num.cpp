@@ -34,7 +34,6 @@ int main(){
     int num;
     cout<<"Enter a number: ";
     cin>>num;
-    
     int digit = countDigit(num);
     cout<<Armstrong(num, digit);
 
