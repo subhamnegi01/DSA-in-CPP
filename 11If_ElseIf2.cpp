@@ -1,10 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     int num;
     cout<<"Enter a valid number for day: ";
     cin>>num;
+    
     if(num==1){
         cout<<"Sunday";
     }
