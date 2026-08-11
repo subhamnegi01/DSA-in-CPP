@@ -1,10 +1,12 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     char c = 'a';
     cout<<"Enter a alphabet: ";
     cin>>c;
+    
     if(c=='a'){
         cout<<"It is vowel";
     }
