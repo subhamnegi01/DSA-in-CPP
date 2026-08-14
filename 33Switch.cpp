@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
 
     int i ;
     cout<<"Enter a number between 1 to 7: ";
