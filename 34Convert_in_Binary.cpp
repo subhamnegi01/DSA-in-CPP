@@ -19,5 +19,6 @@ int main()
         mul= mul*10;
 
     }
+    
     cout<<ans;
 }
