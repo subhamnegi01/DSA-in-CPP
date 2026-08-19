@@ -16,7 +16,8 @@ void Swap(float &c , float &d)       // Function overloading --> Same name but d
     d = r;
 }
 
-int main(){
+int main()
+{
     int a, b;
     cin>>a>>b;
 
