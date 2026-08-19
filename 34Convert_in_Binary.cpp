@@ -8,7 +8,8 @@ int main()
     cin>>num;
     int rem, mul=1, ans=0;
 
-    while(num>0){
+    while(num>0)
+    {
         //reminder
         rem = num%2;
         //quotient
